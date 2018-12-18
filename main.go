@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/tensor-programming/golang-blockchain/blockchain"
+	"github.com/hxperl/golang-blockchain/blockchain"
 )
 
 func main() {
